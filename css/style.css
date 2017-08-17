@@ -1,0 +1,10 @@
+html,
+body {
+  min-width: 940px;
+  height: 100%;
+  font-size: 100%;
+   font-family: "PTSanas", sans-serif;
+  color: black;
+  font-style: bold;
+  line-height:24px;
+}
